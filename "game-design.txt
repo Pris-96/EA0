@@ -11,3 +11,7 @@ que ha sido elegido/a para una misión única: descifrar los secretos matemátic
 y restaurar el equilibrio en su mundo mágico. Con su gran habilidad para resolver acertijos 
 y su ingenio, Migueldeberá enfrentarse a desafíos cada vez más complejos mientras aprende
 y enseña a los jugadores conceptos clave de Matemáticas. 
+
+El jugador podrá explorar la isla y resolver acertijos matemáticos, para avanzar deberá completar desafíos lógicos y superar minijuegos educativos y los desafíos incluirán problemas de operaciones, rompecabezas numéricos y pruebas de lógica. Los estudiantes avanzarán mediante un sistema de niveles basado en puntos y recompensas. Cada nivel representa un concepto matemático clave, como sumas, restas, multiplicaciones o geometría, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
+
+Los jugadores aprenderán fracciones mediante objetos interactivos con repartición de objetos. Se reforzará geometría básica a través de desafíos de construcción de figuras y patrones, y las evaluaciones se realizarán mediante retos cronometrados y pruebas interactivas, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva. 

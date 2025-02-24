@@ -24,3 +24,8 @@ Los jugadores aprenderán fracciones mediante objetos interactivos con repartici
 de objetos. Se reforzará geometría básica a través de desafíos de construcción 
 de figuras y patrones, y las evaluaciones se realizarán mediante retos cronometrados y pruebas
 interactivas, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva. 
+
+El juego se desarrollará usando Unity con C# y tendrá soporte para PC, tablets y 
+dispositivos móviles (Android e iOS). Además, se implementarán características como 
+gráficos en 2D con animaciones fluidas, un sistema de guardado en la nube y una interfaz 
+adaptativa para garantizar una experiencia de juego fluida y atractiva.
